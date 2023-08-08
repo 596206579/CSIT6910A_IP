@@ -2,7 +2,8 @@
 
 ## Project Structure Description
 
-_**Due to the limitation of the upload size of GitHub files, my dataset and model files cannot be uploaded to GitHub. Therefore, I have placed them in Google Drive. If you need to run the code or check the dataset files, please browse this link:**_    
+_**Due to the limitation of the upload size of GitHub files, my dataset and model files cannot be uploaded to GitHub. Therefore, I have placed them in Google Drive. If you need to run the code or check the dataset files, please browse this link:<https://drive.google.com/drive/folders/1tWNAUm5WvHqi7dr66hZ-86QjcQfXPZ9t?usp=drive_link>**_  
+
 
 Regarding Datasets and Model:
 1. "amazon_reviews_us_Camera_v1-00. tsv" is the original dataset that contains information such as Amazon customer comment text.
